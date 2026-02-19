@@ -1,6 +1,9 @@
 # SNC — Semantics-Native Communication via Contextual Reasoning
 Implementation and experiment code for *[Semantics-Native Communication via Contextual Reasoning](https://ieeexplore.ieee.org/document/10054510)* 
 
+## Architecture
+![Architecture](results/architecture.jpg)
+
 ## Usage
 
 - Import `system1` and `system2` from the project root.
