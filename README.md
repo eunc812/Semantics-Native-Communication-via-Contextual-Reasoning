@@ -1,4 +1,4 @@
-# SNC — Semantics-Native Communication via Contextual Reasoning
+# SNC (Semantics-Native Communication via Contextual Reasoning)
 Implementation and experiment code for *[Semantics-Native Communication via Contextual Reasoning](https://ieeexplore.ieee.org/document/10054510)* 
 
 ## Architecture
