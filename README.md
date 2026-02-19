@@ -1,7 +1,7 @@
 
 # SNC — Semantics-Native Communication via Contextual Reasoning
-Implementation and experiment code for **Semantics-Native Communication via Contextual Reasoning**.  
-Includes semantics-based communication models (System 1 / System 2) using action – concept relations and related experiments.
+Implementation and experiment code for *[Semantics-Native Communication via Contextual Reasoning](https://ieeexplore.ieee.org/document/10054510)* 
+
 
 ## Structure
 
@@ -12,12 +12,26 @@ Includes semantics-based communication models (System 1 / System 2) using action
   - `reliability.py` — System 1 vs System 2 reliability γ (Monte Carlo)
   - `fig4.py`–`fig8.py` — Scripts to reproduce paper Figures 4–8
 
-## Requirements
+## Results
 
-```
-numpy
-matplotlib
-```
+Output figures from the experiment scripts are stored in the `results/` folder (Figures 4–8 from the paper).
+
+| Figure | Description |
+|--------|-------------|
+| [Fig 4](results/fig4.png) | G convergence and stationary rA2C heatmap |
+| [Fig 5](results/fig5.png) | Reliability γ vs α, β (3D surface; r = 10, 20, 100) |
+| [Fig 6](results/fig6.png) | Reliability γ vs communication rounds |
+| [Fig 7](results/fig7.png) | SR length achieving γ = 1 (System 1 vs System 2) |
+| [Fig 8](results/fig8.png) | Robustness to asynchronous context (γ vs perturbation ε) |
+
+Preview:
+
+![Figure 4](results/fig4.png)
+![Figure 5](results/fig5.png)
+![Figure 6](results/fig6.png)
+![Figure 7](results/fig7.png)
+![Figure 8](results/fig8.png)
+
 
 ## Usage
 
