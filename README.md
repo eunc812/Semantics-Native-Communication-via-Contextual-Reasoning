@@ -6,7 +6,7 @@ Includes semantics-based communication models (System 1 / System 2) using action
 ## Structure
 
 - **`system1.py`** — System 1 SNC: Action–Concept Relevance, A2C/C2A, Concept–Symbol mapping, Theorem 1 (SR bit-length bounds)
-- **`system2.py`** — System 2 SNC: Individual context (S, L), objective G, alternating minimization, Self-SNC, Algorithm 1
+- **`system2.py`** — System 2 SNC: Individual context (S, L), objective G, Self-SNC, Algorithm 1
 - **`experiments/`**
   - `world.py` — World generation for Section IV experiments (|A|=|C|=100, Dirichlet, etc.)
   - `reliability.py` — System 1 vs System 2 reliability γ (Monte Carlo)
