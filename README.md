@@ -4,11 +4,6 @@ Implementation and experiment code for *[Semantics-Native Communication via Cont
 ## Architecture
 ![Architecture](results/architecture.jpg)
 
-## Usage
-
-- Import `system1` and `system2` from the project root.
-- Run scripts under `experiments/` (e.g. `python experiments/fig4.py`).
-
 ## Structure
 
 - **`system1.py`** — System 1 SNC: Action–Concept Relevance, A2C/C2A, Concept–Symbol mapping, Theorem 1 (SR bit-length bounds)
