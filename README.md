@@ -30,6 +30,7 @@ Output figures from the experiment are stored in `results/` folder (Figures 4–
 | [Fig 7](results/fig7.png) | SR length achieving γ = 1 (System 1 vs System 2) |
 | [Fig 8](results/fig8.png) | Robustness to asynchronous context (γ vs perturbation ε) |
 
+
 Preview:
 
 ![Figure 4](results/fig4.png)
