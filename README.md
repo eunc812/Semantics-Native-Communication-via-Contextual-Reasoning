@@ -36,7 +36,7 @@ Preview:
 ## Usage
 
 - Import `system1` and `system2` from the project root.
-- experiments/plots: run scripts under `experiments/` (e.g. `python experiments/fig4.py`).
+- Run scripts under `experiments/` (e.g. `python experiments/fig4.py`).
 
 ## Paper
 
