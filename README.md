@@ -2,6 +2,10 @@
 # SNC — Semantics-Native Communication via Contextual Reasoning
 Implementation and experiment code for *[Semantics-Native Communication via Contextual Reasoning](https://ieeexplore.ieee.org/document/10054510)* 
 
+## Usage
+
+- Import `system1` and `system2` from the project root.
+- Run scripts under `experiments/` (e.g. `python experiments/fig4.py`).
 
 ## Structure
 
@@ -31,12 +35,6 @@ Preview:
 ![Figure 6](results/fig6.png)
 ![Figure 7](results/fig7.png)
 ![Figure 8](results/fig8.png)
-
-
-## Usage
-
-- Import `system1` and `system2` from the project root.
-- Run scripts under `experiments/` (e.g. `python experiments/fig4.py`).
 
 ## Paper
 
