@@ -1,4 +1,3 @@
-
 # SNC — Semantics-Native Communication via Contextual Reasoning
 Implementation and experiment code for *[Semantics-Native Communication via Contextual Reasoning](https://ieeexplore.ieee.org/document/10054510)* 
 
@@ -35,7 +34,3 @@ Preview:
 ![Figure 6](results/fig6.png)
 ![Figure 7](results/fig7.png)
 ![Figure 8](results/fig8.png)
-
-## Paper
-
-*[Semantics-Native Communication via Contextual Reasoning](https://ieeexplore.ieee.org/document/10054510)* 
