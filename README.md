@@ -14,7 +14,7 @@ Implementation and experiment code for *[Semantics-Native Communication via Cont
 
 ## Results
 
-Output figures from the experiment scripts are stored in the `results/` folder (Figures 4–8 from the paper).
+Output figures from the experiment are stored in `results/` folder (Figures 4–8 from the paper).
 
 | Figure | Description |
 |--------|-------------|
