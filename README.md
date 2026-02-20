@@ -6,16 +6,16 @@ Implementation and experiment code for *[Semantics-Native Communication via Cont
 
 ## Structure
 
-- **`system1.py`** — System 1 SNC: Action–Concept Relevance, A2C/C2A, Concept–Symbol mapping, Theorem 1 (SR bit-length bounds)
-- **`system2.py`** — System 2 SNC: Individual context (S, L), objective G, Self-SNC, Algorithm 1
+- **`system1.py`** — system 1 SNC: action–concept relevance, A2C/C2A, concept–symbol mapping, Theorem 1 (SR bit-length bounds)
+- **`system2.py`** — system 2 SNC: individual context (S, L), objective G, self-SNC, Algorithm 1
 - **`experiments/`**
-  - `world.py` — World generation for Section IV experiments (|A|=|C|=100, Dirichlet)
-  - `reliability.py` — System 1 vs System 2 reliability γ
-  - `fig4.py`–`fig8.py` — Scripts to reproduce paper Figures 4–8
+  - `world.py` — world generation for section IV experiments (|A|=|C|=100, Dirichlet)
+  - `reliability.py` — system 1 vs system 2 reliability γ
+  - `fig4.py`–`fig8.py` — scripts to reproduce paper Figures 4–8
+- **`resulsts/`** - architecture, output figures from the experiment
 
 ## Results
 
-Output figures from the experiment are stored in `results/` folder (Figures 4–8 from the paper).
 
 | Figure | Description |
 |--------|-------------|
