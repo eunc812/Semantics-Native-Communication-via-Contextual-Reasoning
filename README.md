@@ -9,8 +9,8 @@ Implementation and experiment code for *[Semantics-Native Communication via Cont
 - **`system1.py`** — System 1 SNC: Action–Concept Relevance, A2C/C2A, Concept–Symbol mapping, Theorem 1 (SR bit-length bounds)
 - **`system2.py`** — System 2 SNC: Individual context (S, L), objective G, Self-SNC, Algorithm 1
 - **`experiments/`**
-  - `world.py` — World generation for Section IV experiments (|A|=|C|=100, Dirichlet, etc.)
-  - `reliability.py` — System 1 vs System 2 reliability γ (Monte Carlo)
+  - `world.py` — World generation for Section IV experiments (|A|=|C|=100, Dirichlet)
+  - `reliability.py` — System 1 vs System 2 reliability γ
   - `fig4.py`–`fig8.py` — Scripts to reproduce paper Figures 4–8
 
 ## Results
