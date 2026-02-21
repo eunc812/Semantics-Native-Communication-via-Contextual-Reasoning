@@ -1,5 +1,5 @@
 # Semantics-Native Communication via Contextual Reasoning (SNC)
-+ Implementation of SNC, contextual reasoning, and figures
++ Implementation of contextual reasoning in semantic communication systems
 + Implementation and experiment code for *[Semantics-Native Communication via Contextual Reasoning](https://ieeexplore.ieee.org/document/10054510)* 
 + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A8h6a8rotjgW3andTgensdn252n_MNPC?usp=sharing)
 ## Architecture
